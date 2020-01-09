@@ -19,7 +19,7 @@ Then the given dataset will be prepared and setup. An exploratory data analysis 
 
 Recommender systems are utilized in a variety of areas, and are most commonly recognized as playlist generators for video and music services like Netflix, YouTube and Spotify, product recommenders for services such as Amazon, or content recommenders for social media platforms such as Facebook and Twitter. In our project, we will use ratings that users have given to the movies to make specific recommendations. 
 
-Recommendation systems are one of the most used models in machine learning algorithms. For this project we will focus on create a movie recommendation system using the 10M version of MovieLens dataset, collected by GroupLens Research.
+Recommendation systems are one of the most used models in machine learning algorithms. For this project we will focus on create an accurate movie rating prediction, which can be use for movie recommendation system, using the 10M version of MovieLens dataset, collected by GroupLens Research.
 
 
 ## Aim of the project
